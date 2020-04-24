@@ -53,7 +53,7 @@ while stop == False:
     elif command == "help":
       os.system("clear")
       print_board("")  
-      print("") 
+      print("changes") 
       print( "Type 'p' to see the positions.")
       print( "Type 'reset' to start a new game.")
       print( "Type 'stop' to exit the game.")
