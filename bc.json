@@ -1,0 +1,15 @@
+{
+	"slug" : "tictactoe-cli-python",
+	"title" : "TicTacToe CLI with Python",
+	"description": "Create a TicTacToe List CLI using Python",
+	"preview": "https://github.com/breatheco-de/exercise-tictactoe-cli-python/blob/master/preview.gif?raw=true",
+	"status": "published",
+	"live-url": "",
+	"duration" : 8,
+	"difficulty": "beginner",
+    "solution": "https://github.com/breatheco-de/exercise-tictactoe-cli-python/tree/solution",
+	"technologies": ["python", "terminal", "command line", "csv", "static file storage"],
+	"talents": [
+		{ "badge": "identator", "points": 10 }
+	]
+}
